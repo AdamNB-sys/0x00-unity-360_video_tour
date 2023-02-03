@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/All-in-one_tour.unity
+    guid: f26fdeed4b82f95418a614342c87a2b0
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 25c9dbb9de00fff47a0d5b4a2cdd8f88, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 1f3e269658244504cbd7d59f0ec8468b, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9d1c086dd8965dc41a502e60f7f9bdac, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 71d335577a7a25f4ab02a4c50d35e922, type: 2}
